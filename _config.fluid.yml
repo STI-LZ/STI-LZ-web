@@ -1033,8 +1033,20 @@ links:
     - {
       title: "TruthLuming",
       intro: "A级人员",
-      link: "/",
+      link: "https://truthluming.top/",
       avatar: "/img/TruthLuming.jpg"
+    }
+    - {
+      title: "user694",
+      intro: "A级人员",
+      link: "/",
+      avatar: "/img/user694.jpg"
+    }
+    - {
+      title: "平头",
+      intro: "A级人员",
+      link: "/",
+      avatar: "/img/平头.jpg"
     }
 
   # 当成员头像加载失败时，替换为指定图片
