@@ -102,4 +102,7 @@ theme: fluid  # 指定主题
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:STI-LZ/STI-LZ.github.io.git
+  branch: master
+  message: "FFFFFF"
